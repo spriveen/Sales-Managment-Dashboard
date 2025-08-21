@@ -617,5 +617,22 @@ td {
     span {
       font-size: 2.5rem;
     }
+    
   }
+  footer {
+  background-color: #012970; /* dark blue background */
+  color: white;              /* text color */
+  text-align: center;        /* center text */
+  padding: 15px 0;           /* spacing */
+  position: fixed;           /* stick to bottom */
+  bottom: 0;
+  width: 100%;
+  font-family: Arial, sans-serif;
+}
+
+footer p {
+  margin: 0;
+  font-size: 14px;
+}
+
 }
